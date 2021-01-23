@@ -2,3 +2,4 @@
 
 https://www.public.com <br>
 https://www.robinhood.com <br>
+https://www.etoro.com/ <br>
