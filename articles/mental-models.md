@@ -2,3 +2,10 @@
 
 ## List
 https://fs.blog/mental-models/
+
+
+## Investment Takeaways
+- Deferred Gratification <br>
+- Bayesian Updates -> Mitigate uncerctainty and non-deterministic events by carefully updating your action plan as new information comes in <br>
+
+
